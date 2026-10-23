@@ -1,0 +1,203 @@
+{
+  "groups": [
+    {
+      "key": "company",
+      "name": "公司与机构",
+      "blurb": "按上市公司与监管机构追踪公告、业绩与动向"
+    },
+    {
+      "key": "field",
+      "name": "板块与方向",
+      "blurb": "按板块与题材深挖：新能源、半导体、AI算力……"
+    },
+    {
+      "key": "genre",
+      "name": "内容形态",
+      "blurb": "按内容类型浏览：政策、财报、宏观数据、观点……"
+    }
+  ],
+  "topics": [
+    {
+      "slug": "maotai",
+      "name": "贵州茅台",
+      "group": "company",
+      "entityId": "maotai",
+      "definition": "贵州茅台（600519.SH）的全部动态：定期报告、分红方案、批价走势、渠道与产品结构的持续追踪。"
+    },
+    {
+      "slug": "catl",
+      "name": "宁德时代",
+      "group": "company",
+      "entityId": "catl",
+      "definition": "宁德时代（300750.SZ）的全部动态：业绩、产能与技术路线、海外订单与产业链动向。"
+    },
+    {
+      "slug": "byd",
+      "name": "比亚迪",
+      "group": "company",
+      "entityId": "byd",
+      "definition": "比亚迪（002594.SZ）的全部动态：新能源汽车销量、财报、技术平台与出海进展。"
+    },
+    {
+      "slug": "smic",
+      "name": "中芯国际",
+      "group": "company",
+      "entityId": "smic",
+      "definition": "中芯国际（688981.SH）的全部动态：晶圆代工产能利用率、资本开支、国产替代进展。"
+    },
+    {
+      "slug": "cmb",
+      "name": "招商银行",
+      "group": "company",
+      "entityId": "cmb",
+      "definition": "招商银行（600036.SH）的全部动态：零售业务质量、息差变化、财富管理与分红。"
+    },
+    {
+      "slug": "pingan",
+      "name": "中国平安",
+      "group": "company",
+      "entityId": "pingan",
+      "definition": "中国平安（601318.SH）的全部动态：寿险改革成效、投资端表现与综合金融布局。"
+    },
+    {
+      "slug": "longi",
+      "name": "隆基绿能",
+      "group": "company",
+      "entityId": "longi",
+      "definition": "隆基绿能（601012.SH）的全部动态：光伏组件与电池技术路线、价格与产能周期。"
+    },
+    {
+      "slug": "zijin",
+      "name": "紫金矿业",
+      "group": "company",
+      "entityId": "zijin",
+      "definition": "紫金矿业（601899.SH）的全部动态：铜金产量、资源并购与商品价格弹性。"
+    },
+    {
+      "slug": "citic",
+      "name": "中信证券",
+      "group": "company",
+      "entityId": "citic",
+      "definition": "中信证券（600030.SH）的全部动态：投行业务、市场活跃度受益与并购重组机会。"
+    },
+    {
+      "slug": "eastmoney",
+      "name": "东方财富",
+      "group": "company",
+      "entityId": "eastmoney",
+      "definition": "东方财富（300059.SZ）的全部动态：经纪与基金代销业务、市场成交量弹性。"
+    },
+    {
+      "slug": "cambricon",
+      "name": "寒武纪",
+      "group": "company",
+      "entityId": "cambricon",
+      "definition": "寒武纪（688256.SH）的全部动态：国产AI芯片订单、业绩兑现与算力国产化。"
+    },
+    {
+      "slug": "sungrow",
+      "name": "阳光电源",
+      "group": "company",
+      "entityId": "sungrow",
+      "definition": "阳光电源（300274.SZ）的全部动态：储能与逆变器出货、海外市场与毛利率。"
+    },
+    {
+      "slug": "csrc",
+      "name": "证监会",
+      "group": "company",
+      "entityId": "csrc",
+      "definition": "中国证监会的全部动态：规则发布、IPO与再融资节奏、监管执法与市场定调。"
+    },
+    {
+      "slug": "pbc",
+      "name": "央行",
+      "group": "company",
+      "entityId": "pbc",
+      "definition": "中国人民银行的全部动态：LPR、降准降息、公开市场操作与货币政策执行报告。"
+    },
+    {
+      "slug": "new-energy",
+      "name": "新能源",
+      "group": "field",
+      "tags": ["新能源", "电动车", "光伏", "风电", "储能"],
+      "definition": "新能源板块的持续追踪：光伏与储能价格、电动车销量、风电装机、电网投资与产能周期。"
+    },
+    {
+      "slug": "semiconductor",
+      "name": "半导体",
+      "group": "field",
+      "tags": ["半导体", "电子", "计算机"],
+      "definition": "半导体板块的持续追踪：国产替代、晶圆代工与封测景气度、设备材料订单、存储价格。"
+    },
+    {
+      "slug": "ai-compute",
+      "name": "AI算力",
+      "group": "field",
+      "tags": ["AI算力", "机器人"],
+      "definition": "AI算力产业链的持续追踪：算力芯片、光模块、服务器、IDC、大模型训练与推理需求，以及重大AI政策与事件。"
+    },
+    {
+      "slug": "medicine",
+      "name": "医药",
+      "group": "field",
+      "tags": ["医药"],
+      "definition": "医药板块的持续追踪：集采政策、创新药出海、临床试验与审批、医保谈判。"
+    },
+    {
+      "slug": "consumer",
+      "name": "大消费",
+      "group": "field",
+      "tags": ["消费", "白酒", "食品饮料", "家电", "汽车"],
+      "definition": "大消费板块的持续追踪：白酒批价、社零数据、以旧换新、餐饮旅游与消费补贴政策。"
+    },
+    {
+      "slug": "finance-sector",
+      "name": "银行券商",
+      "group": "field",
+      "tags": ["银行", "券商", "保险"],
+      "definition": "大金融板块的持续追踪：净息差、资产质量、财富管理、市场成交量弹性与保险新政。"
+    },
+    {
+      "slug": "policy",
+      "name": "政策监管",
+      "group": "genre",
+      "tags": ["政策/监管", "货币政策"],
+      "definition": "按内容形态浏览：证监会、央行、国务院与交易所发布的规则、处罚与定调。"
+    },
+    {
+      "slug": "earnings",
+      "name": "财报业绩",
+      "group": "genre",
+      "tags": ["公司业绩", "财报/公告", "并购/重组", "回购/增减持", "IPO/上市"],
+      "definition": "按内容形态浏览：业绩快报、定期报告、并购重组、回购增减持与IPO动向。"
+    },
+    {
+      "slug": "macro-data",
+      "name": "宏观数据",
+      "group": "genre",
+      "tags": ["宏观数据"],
+      "definition": "按内容形态浏览：GDP、CPI、PPI、PMI、社融等官方经济数据与货币财政操作。"
+    },
+    {
+      "slug": "market-flow",
+      "name": "市场与资金",
+      "group": "genre",
+      "tags": ["A股/大盘", "资金流向", "板块/行业"],
+      "definition": "按内容形态浏览：大盘指数、成交与资金流向、板块轮动与指数编制调整。"
+    },
+    {
+      "slug": "research",
+      "name": "研报解读",
+      "group": "genre",
+      "tags": ["研报/解读", "大佬观点"],
+      "definition": "按内容形态浏览：券商研报、深度解读、机构观点与市场快评。"
+    },
+    {
+      "slug": "overseas",
+      "name": "海外市场",
+      "group": "genre",
+      "tags": ["海外市场", "汇率/大宗"],
+      "definition": "按内容形态浏览：美股港股动态、美联储政策、汇率与大宗商品价格。"
+    }
+  ]
+}
